@@ -25,6 +25,8 @@
     * base链部署合约
   * 未实现的功能是:
     * 交互网页自动领取NFT
-* 
+* scroll
+  * 从主网跨链到scroll
+  * to be continue
 * premint
   * 龙族的工具的一小部分，备份
