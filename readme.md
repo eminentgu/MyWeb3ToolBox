@@ -30,3 +30,4 @@
   * to be continue
 * premint
   * 龙族的工具的一小部分，备份
+* KUBZ 爬虫，爬取、统计、可视化KUBZ NFT的lampz、rugz属性
